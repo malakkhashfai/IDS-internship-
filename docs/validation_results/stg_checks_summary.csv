@@ -1,0 +1,10 @@
+"check_name","value"
+stg_order_revenue_rows,"99441"
+stg_orders_rows,"99441"
+stg_customers_rows,"99441"
+stg_products_rows,"32951"
+current_database,ecommerce_project
+missing_order_id,"0"
+duplicate_order_ids_count,"0"
+revenue_not_in_orders,"0"
+orders_with_missing_customer,"0"
