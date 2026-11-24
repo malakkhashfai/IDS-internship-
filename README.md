@@ -116,8 +116,3 @@ Based on the dashboard analysis, several business opportunities were identified:
 
 The project demonstrates the application of Business Intelligence and data analysis techniques to understand e-commerce performance and support strategic decisions related to sales, products, inventory, marketing, and regional expansion.
 
-## Author
-
-**Malak Khashfe**
-
-[GitHub Profile](https://github.com/malakkhashfai)
